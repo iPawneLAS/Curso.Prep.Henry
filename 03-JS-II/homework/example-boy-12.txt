@@ -1,0 +1,4 @@
+for: Es como una bola de nieve, empieza de cierta manera, a medida que se vayan cumpliendo ciertas condiciones (por ejemplo que esté rodando y que haya nieve si queremos que aumente) aumenta de tamaño, o decrementa. Hasta que se cruza con una pared en donde se le indica que debe parar.
+&& es un concatenador, algo con lo que podes añadir una cosa a otra cosa, podría decirse que es como decir esto "Y" esto.
+|| es parecido a && con la diferencia de que en vez de decir esto "Y" esto, decimos esto "O" esto.
+! Tomando de referencia los otros dos ejemplos, este operador lógico significa "NO"
